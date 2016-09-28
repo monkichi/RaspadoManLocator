@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-23.4.0_384a81fee4fd51f50dc1b7eb8032f7160de319d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_04c0310aa06e3d087835b49acec620379607f465/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_4a50b131f8a44f3355a795b7ebf3a5117216005d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_2a4ee38a6b9bf6dcf12b919ba42b5700cdff006d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_458c9791d7e05a249b17379b464ed3a4d5db672c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_e349e8346662079ef77ef5a1a3321f0fd2c620ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="820605b42a2d3d9cb9e6c4cc7453fb4f802aedff">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.15.0_9a0b7f89e0c6f2863739862f9b2704917002ff27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.0_309517e8eef2f9e6fea02b5568ec9ee2e90246c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.0.0_28e76c94af588cdcd0d5100415a2eeaacf4658e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_af4f2dcef29abfffc7f8cc27f41e45493f855474/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_0cafacc41125611ff4fb37be4196ebce74ac22f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_27bed1e7a7a79e7b0b6b75453ad1e463745cdbf7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f7c18f616518430f6408146fea99e912d3eed55d">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c573065499e3b2672f429b18b542a683263cb349/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.0_af0236f57b3cb26e9373e730065e0ced0d245605/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e435797e75a6b42c3a4daeb3427dfe595a2facb1">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_23a76698391a0e76bd6711c8f76e7a6aca40597c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.0_156d825bf88055eaf5fd4e0d5d67718a92f04b5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_5c62480569c3388d8b79c5484e8d2c26586a8fa4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_7124cef19fcada2ee15b88aa6783e0190dfa93ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_451eb1231b41857af4650185a3767779a639a82a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_b30149dbed57ba27d5df3ad27f5b252a13f7679a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_fbe4eb50bcf90b91616c974109554e05723aa47e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_94bd2cc36a00ea49839a578cd3b8a7176991f600/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_6e80953399cab38e58352b7b60eda268426a05e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_56c1612ac3de90962f4fd3a4f7cb031b7e764f73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_aa3ebb70e4212c803d3d0a8e6af9a9be5bbadbe2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_5dbfbc9ca3eb4e54301995f926850e461fe8ca49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_77ecb4588f1aea7e431e16d0f1200f03778a5f10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_fb7726c70e3f9cd774cd08f2c04f503c8edf076d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.parse/parsefacebookutils-v4-android/1.10.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="771e1739a38be7573c55458d16ca2d2f9f546cf7">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.parse-parsefacebookutils-v4-android-1.10.3_c1a57f738667b33196055de33c02b534a12dd6c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_458cd5efedbce740cea49c96233d566ceb2f8d5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.0_8f29949353695840b1fafc3673acef3e00b5d735/classes.dex" />
+    </item>
+
+</items>
