@@ -1,7 +1,9 @@
 package com.parse.RaspadoCartLocator;
 
 import android.Manifest;
+import android.app.Dialog;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.location.Criteria;
@@ -11,9 +13,15 @@ import android.location.LocationManager;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
+import android.support.v7.app.AlertDialog;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.view.LayoutInflater;
 import android.view.View;
+import android.widget.ArrayAdapter;
 import android.widget.Button;
+import android.widget.EditText;
+import android.widget.ListView;
 import android.widget.Toast;
 
 import com.google.android.gms.maps.CameraUpdateFactory;
@@ -33,9 +41,10 @@ import com.parse.ParseQuery;
 import com.parse.ParseUser;
 import com.parse.SaveCallback;
 
+import java.util.ArrayList;
 import java.util.List;
 
-public class RaspadoMapsActivity extends FragmentActivity implements OnMapReadyCallback, LocationListener, GoogleMap.OnMarkerClickListener {
+public class RaspadoMapsActivity extends AppCompatActivity implements OnMapReadyCallback, LocationListener, GoogleMap.OnMarkerClickListener {
 
     private GoogleMap mMap;
     //LocationManager for getting location coordinates
@@ -48,6 +57,15 @@ public class RaspadoMapsActivity extends FragmentActivity implements OnMapReadyC
     private boolean isLocationOn =false;
     private ParseUser currentUser;
     private LatLng nearestSellerLatLng;
+    private ListView menuListView;
+    private Button addToMenuButton;
+    private EditText addToMenuEditText;
+     List<String> menuListArrayList;
+     ArrayAdapter<String> adapter;
+    private Button editMenuListButton;
+    private View dialoglayout;
+    private ParseObject sellerObject;
+     String newMenuItem;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -57,6 +75,9 @@ public class RaspadoMapsActivity extends FragmentActivity implements OnMapReadyC
         currentUser = ParseUser.getCurrentUser();
         //Find out what type of user current user is either USER or SELLER
         currentUserType = currentUser.getString("sellerOrUser");
+        editMenuListButton = (Button) findViewById(R.id.editMenuButton);
+
+
 
         if (currentUserType==null) {
             Toast.makeText(getApplicationContext(),"Didnt Get User or Seller",Toast.LENGTH_SHORT).show();
@@ -67,13 +88,169 @@ public class RaspadoMapsActivity extends FragmentActivity implements OnMapReadyC
                 setContentView(R.layout.activy_maps_layout_seller);
 
                 //inflate the buttons
-                final Button editMenuListButton = (Button) findViewById(R.id.editMenuButton);
+                editMenuListButton = (Button) findViewById(R.id.editMenuButton);
                 editMenuListButton.setText("Menu");
                 editMenuListButton.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
-                        //Create the intent to start the seller menu activity
 
+
+
+
+
+
+
+
+
+                        //Query the menu list for the given seller
+                        ParseQuery<ParseObject> menuList = ParseQuery.getQuery("sellers");
+                        menuList.whereEqualTo("userObjectId", currentUser.getObjectId());
+                        menuList.findInBackground(new FindCallback<ParseObject>() {
+                            @Override
+                            public void done(List<ParseObject> objects, ParseException e) {
+                                if (e==null){
+                                    if (objects.size()>0){
+                                        sellerObject = objects.get(0);
+                                        menuListArrayList = sellerObject.getList("sellerMenuList");
+                                        Log.i("menuListQuery","Query was succesful ");
+                                        //Create the Dialog
+                                        AlertDialog.Builder builder = new AlertDialog.Builder(RaspadoMapsActivity.this);
+                                        builder.setMessage("Edit Menu");
+
+
+                                        // What you need to do is to find your button in Dialog view. You can do it this way:
+                                        LayoutInflater inflater = getLayoutInflater();
+                                        dialoglayout = inflater.inflate(R.layout.menu_list_dialog, null);
+
+                                        menuListView =(ListView) dialoglayout.findViewById(R.id.menuListView);
+                                        if (menuListArrayList==null){
+                                            //Just Display a message on the list view
+                                            Log.i("MenuList", String.valueOf(menuListArrayList==null));
+                                            menuListArrayList = new ArrayList<String>();
+                                        }
+                                        else{
+                                            //Get reference to the list view and edit text
+
+                                            adapter = new ArrayAdapter<String>(getApplicationContext(),
+                                                    android.R.layout.simple_list_item_1, android.R.id.text1,menuListArrayList);
+                                            menuListView.setAdapter(adapter);
+                                        }
+                                        addToMenuEditText = (EditText) dialoglayout.findViewById(R.id.addMenuItemEditText);
+                                        addToMenuButton = (Button) dialoglayout.findViewById(R.id.addToMenuListButton);
+                                        addToMenuButton.setOnClickListener(new View.OnClickListener() {
+
+                                            @Override
+                                            public void onClick(View v) {
+                                                //Get the menu item from the editText
+                                                newMenuItem = addToMenuEditText.getText().toString();
+                                                Log.i("AddMenuItem", "This is the string = " + newMenuItem);
+                                                menuListArrayList.add(newMenuItem);
+
+                                                //Update the database list with new item
+                                                sellerObject.put("sellerMenuList", menuListArrayList);
+                                                sellerObject.saveInBackground(new SaveCallback() {
+                                                    @Override
+                                                    public void done(ParseException e) {
+                                                        if (e == null){
+                                                            adapter.notifyDataSetChanged();
+                                                            Log.i("updateMenuList","Data was succesfuuly saved");
+                                                        }
+                                                        else{
+
+                                                        }
+                                                    }
+                                                });
+
+                                            }
+                                        });
+                                        builder.setView(dialoglayout);
+
+                                        builder.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
+                                            @Override
+                                            public void onClick(DialogInterface dialog, int which) {
+
+                                            }
+                                        });
+
+                                        builder.setCancelable(true);
+
+                                        builder.show();
+                                        //start the edit meu
+                                    }
+                                    else{
+                                        Log.i("menuListQuery","Query returned 0 results " + objects.size());
+                                    }
+                                }
+                                else{
+                                    Log.i("menuListQuery","Error occured " + e.getMessage());
+                                }
+                            }
+                        });
+
+
+
+
+                        //Create the Dialog
+                        AlertDialog.Builder builder = new AlertDialog.Builder(RaspadoMapsActivity.this);
+                        builder.setMessage("Edit Menu");
+
+
+                       // What you need to do is to find your button in Dialog view. You can do it this way:
+                        LayoutInflater inflater = getLayoutInflater();
+                        dialoglayout = inflater.inflate(R.layout.menu_list_dialog, null);
+
+                        menuListView =(ListView) dialoglayout.findViewById(R.id.menuListView);
+                        if (menuListArrayList==null){
+                            //Just Display a message on the list view
+                            Log.i("MenuList", String.valueOf(menuListArrayList==null));
+                            menuListArrayList = new ArrayList<String>();
+                        }
+                        else{
+                            //Get reference to the list view and edit text
+
+                            adapter = new ArrayAdapter<String>(getApplicationContext(),
+                                    android.R.layout.simple_list_item_1, android.R.id.text1,new ArrayList<String>(menuListArrayList) );
+                            menuListView.setAdapter(adapter);
+                        }
+                        addToMenuEditText = (EditText) dialoglayout.findViewById(R.id.addMenuItemEditText);
+                        addToMenuButton = (Button) dialoglayout.findViewById(R.id.addToMenuListButton);
+                        addToMenuButton.setOnClickListener(new View.OnClickListener() {
+
+                            @Override
+                            public void onClick(View v) {
+                                 //Get the menu item from the editText
+                                newMenuItem = addToMenuEditText.getText().toString();
+                                Log.i("AddMenuItem", "This is the string = " + newMenuItem);
+                                menuListArrayList.add(newMenuItem);
+
+                                //Update the database list with new item
+                                    sellerObject.put("sellerMenuList", menuListArrayList);
+                                    sellerObject.saveInBackground(new SaveCallback() {
+                                        @Override
+                                        public void done(ParseException e) {
+                                            if (e == null){
+                                                adapter.notifyDataSetChanged();
+                                            }
+                                            else{
+
+                                            }
+                                        }
+                                    });
+
+                            }
+                        });
+                        builder.setView(dialoglayout);
+
+                        builder.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
+                            @Override
+                            public void onClick(DialogInterface dialog, int which) {
+
+                            }
+                        });
+
+                        builder.setCancelable(true);
+
+                        builder.show();
                         //start the edit meu
 
 

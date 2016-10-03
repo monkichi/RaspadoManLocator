@@ -57,21 +57,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="820605b42a2d3d9cb9e6c4cc7453fb4f802aedff">
-        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.15.0_9a0b7f89e0c6f2863739862f9b2704917002ff27/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
         sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
         <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.0_309517e8eef2f9e6fea02b5568ec9ee2e90246c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="df6791bb4f5402ed138d3dd1385f8e2bc3ac8728">
+        <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.16.0_4a9073da33af2a1bd1fb38ac8152b70edbf6586b/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -115,7 +115,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="f7c18f616518430f6408146fea99e912d3eed55d">
+        sha1="4b1b77823f633c47bb07634ed41c8a7b46db2a60">
         <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c573065499e3b2672f429b18b542a683263cb349/classes.dex" />
     </item>
     <item
@@ -133,7 +133,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="e435797e75a6b42c3a4daeb3427dfe595a2facb1">
+        sha1="cde4a7f47eb325d4317f12975538785f4b1136bc">
         <dex dex="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_23a76698391a0e76bd6711c8f76e7a6aca40597c/classes.dex" />
     </item>
     <item

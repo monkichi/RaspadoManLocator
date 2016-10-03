@@ -250,6 +250,7 @@ public class MainActivity extends AppCompatActivity {
       sellerObject.put("userObjectId", parseUser.getObjectId() );   //Id to keep track of the parseuser
       sellerObject.put("sellerLocation", new ParseGeoPoint());        //Keep track of where seller is
       // Menu List?
+      sellerObject.put("sellerMenuList", new ArrayList<String>() );
       //Save the seller object
       try {
         sellerObject.save();

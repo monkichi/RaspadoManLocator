@@ -25,7 +25,7 @@
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_close.png",
-        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-xhdpi-v4/com_facebook_close.png"
+        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.0/res/drawable-xhdpi-v4/com_facebook_close.png"
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png",
@@ -53,7 +53,7 @@
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_button_icon_blue.png",
-        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-xhdpi-v4/com_facebook_button_icon_blue.png"
+        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.0/res/drawable-xhdpi-v4/com_facebook_button_icon_blue.png"
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png",
@@ -61,11 +61,11 @@
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/messenger_bubble_large_blue.png",
-        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-xhdpi-v4/messenger_bubble_large_blue.png"
+        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.0/res/drawable-xhdpi-v4/messenger_bubble_large_blue.png"
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/messenger_bubble_small_white.png",
-        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-xhdpi-v4/messenger_bubble_small_white.png"
+        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.0/res/drawable-xhdpi-v4/messenger_bubble_small_white.png"
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_text_light_focused.9.png",
@@ -133,11 +133,11 @@
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/messenger_bubble_large_white.png",
-        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-xhdpi-v4/messenger_bubble_large_white.png"
+        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.0/res/drawable-xhdpi-v4/messenger_bubble_large_white.png"
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_tooltip_black_bottomnub.png",
-        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-xhdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.0/res/drawable-xhdpi-v4/com_facebook_tooltip_black_bottomnub.png"
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_focused_holo.9.png",
@@ -181,11 +181,11 @@
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_tooltip_blue_background.9.png",
-        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_background.9.png"
+        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.0/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_background.9.png"
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_button_like_icon_selected.png",
-        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-xhdpi-v4/com_facebook_button_like_icon_selected.png"
+        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.0/res/drawable-xhdpi-v4/com_facebook_button_like_icon_selected.png"
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
@@ -217,7 +217,7 @@
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_tooltip_black_xout.png",
-        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-xhdpi-v4/com_facebook_tooltip_black_xout.png"
+        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.0/res/drawable-xhdpi-v4/com_facebook_tooltip_black_xout.png"
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_focused.9.png",
@@ -225,7 +225,7 @@
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/messenger_bubble_small_blue.png",
-        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-xhdpi-v4/messenger_bubble_small_blue.png"
+        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.0/res/drawable-xhdpi-v4/messenger_bubble_small_blue.png"
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png",
@@ -237,7 +237,7 @@
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_button_send_icon_blue.png",
-        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-xhdpi-v4/com_facebook_button_send_icon_blue.png"
+        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.0/res/drawable-xhdpi-v4/com_facebook_button_send_icon_blue.png"
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
@@ -265,23 +265,19 @@
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_tooltip_black_topnub.png",
-        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-xhdpi-v4/com_facebook_tooltip_black_topnub.png"
+        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.0/res/drawable-xhdpi-v4/com_facebook_tooltip_black_topnub.png"
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.png",
-        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.png"
+        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.0/res/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.png"
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_button_send_icon_white.png",
-        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-xhdpi-v4/com_facebook_button_send_icon_white.png"
+        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.0/res/drawable-xhdpi-v4/com_facebook_button_send_icon_white.png"
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png",
         "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png"
-    },
-    {
-        "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_favicon_white.png",
-        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-xhdpi-v4/com_facebook_favicon_white.png"
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png",
@@ -293,7 +289,7 @@
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_button_icon_white.png",
-        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-xhdpi-v4/com_facebook_button_icon_white.png"
+        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.0/res/drawable-xhdpi-v4/com_facebook_button_icon_white.png"
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
@@ -317,7 +313,7 @@
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_tooltip_blue_bottomnub.png",
-        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
+        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.0/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
@@ -337,11 +333,11 @@
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_tooltip_blue_topnub.png",
-        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_topnub.png"
+        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.0/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_topnub.png"
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/messenger_button_send_round_shadow.png",
-        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-xhdpi-v4/messenger_button_send_round_shadow.png"
+        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.0/res/drawable-xhdpi-v4/messenger_button_send_round_shadow.png"
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_black_36dp.png",
@@ -353,7 +349,7 @@
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_tooltip_blue_xout.png",
-        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_xout.png"
+        "source": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.0/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_xout.png"
     },
     {
         "merged": "/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_focused.9.png",

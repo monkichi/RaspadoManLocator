@@ -4,36 +4,43 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="5464037665728"
+    timestamp="4228798837365"
     token="5691372707492134521"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="637" />
+        duration="479" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="119" />
+        duration="67" />
     <task
         name="verifier"
-        duration="10" />
+        duration="19" />
 
     <artifact
         location="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
         type="DEX" />
 
     <build
-        timestamp="258822394142"
+        timestamp="781083938097"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="5464037665728"
+        timestamp="1561074152329"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+    <build
+        timestamp="4228798837365"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/chris/Documents/github/RaspadoManLocator/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
